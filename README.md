@@ -1,22 +1,22 @@
-# Titanic - Machine Learning from Disaster 🚢
+# Titanic - Machine Learning from Disaster 
 
 This is a mini-project using Python and machine learning to solve the classic [Kaggle Titanic competition](https://www.kaggle.com/competitions/titanic). The goal is to predict survival outcomes on the Titanic using passenger data like age, gender, class, etc.
 
-## 📌 Project Goals
+## Project Goals
 
 - Demonstrate a full machine learning workflow in Python.
 - Practice data preprocessing, feature engineering, and model training.
 - Apply basic classification algorithms and compare their performance.
 - Generate predictions in the correct Kaggle submission format.
 
-## 🛠 Technologies Used
+## Technologies Used
 
 - Python
 - NumPy, Pandas for data manipulation
 - Matplotlib, Seaborn for data visualization
 - Scikit-learn for machine learning models and evaluation
 
-## 📊 Key Steps
+## Key Steps
 
 ### 1. Data Handling
 - Load `train.csv` and `test.csv` using Pandas.
